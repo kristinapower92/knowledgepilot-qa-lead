@@ -1,5 +1,7 @@
 # KnowledgePilot — QA Lead Portfolio Project
 
+[![Python tests](https://github.com/kristinapower92/knowledgepilot-qa-lead/actions/workflows/python-tests.yml/badge.svg)](https://github.com/kristinapower92/knowledgepilot-qa-lead/actions/workflows/python-tests.yml)
+
 ### Управление качеством AI/LLM-продукта: от рисков и стратегии до решения Go / No-Go
 
 **KnowledgePilot** — синтетический проект корпоративного AI-ассистента с RAG, который отвечает на вопросы сотрудников на основе внутренней базы знаний и указывает источники ответа.
